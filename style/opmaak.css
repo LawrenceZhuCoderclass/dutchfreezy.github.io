@@ -1,0 +1,44 @@
+p.dashed {border-style: dashed;}
+p.double {border-style: double;}
+p.mix {border-style: dotted dashed solid double;}
+body {
+  background-color:
+ #33cc33;
+}
+
+
+div {
+    border: 1px solid black;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-right: 50%;
+    margin-left: 10%;
+    background-color: MediumSeaGreen;
+}
+
+table, th, td {
+    border: 1px solid black;
+        background-color: red;
+}
+
+h1 {
+  color: #000000;
+}
+a:hover {
+    background-color: red;
+}
+img {
+    position: fixed;
+    left: 50%;
+    top: 35%;
+}
+p {
+    font-size:130%;
+}
+
+a {
+    font-size: 40;
+}
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
