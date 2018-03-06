@@ -1,6 +1,10 @@
 p.dashed {border-style: dashed;}
 p.double {border-style: double;}
-p.mix {border-style: dotted dashed solid double;}
+
+p.mix {
+  border-style: dotted dashed solid double;
+}
+
 body {
   background-color:
  #33cc33;
