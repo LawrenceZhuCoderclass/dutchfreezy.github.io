@@ -46,7 +46,7 @@ p {
 
 a {
     border: 1px solid black;
-    font-size: 40;
+    font-size: 10%;
 }
 p.serif {
     font-family: "Times New Roman", Times, serif;
