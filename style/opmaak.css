@@ -1,5 +1,5 @@
 p.dashed {
-  border-style: dashed;
+  /*border-style: dashed;*/
 }
 p.double {
   border-style: double;
@@ -45,6 +45,7 @@ p {
 }
 
 a {
+    border: 1px solid black;
     font-size: 40;
 }
 p.serif {
