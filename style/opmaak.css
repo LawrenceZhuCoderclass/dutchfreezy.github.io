@@ -22,7 +22,12 @@ div {
     margin-right: 50%;
     margin-left: 10%;
     background-color: MediumSeaGreen;
+    padding-top: 10px;
+     padding-right: 30px;
+     padding-bottom: 10px;
+     padding-left: 30px;
 }
+
 
 table, th, td {
     border: 1px solid black;
