@@ -22,10 +22,7 @@ div {
     margin-right: 50%;
     margin-left: 10%;
     background-color: MediumSeaGreen;
-    padding-top: 1%;
-     padding-right: 3%;
-     padding-bottom: 1%;
-     padding-left: 1%;
+
 }
 
 
@@ -52,6 +49,7 @@ p {
 a {
     border: 1px solid black;
     font-size: 100%;
+    padding: 10px
 }
 p.serif {
     font-family: "Times New Roman", Times, serif;
