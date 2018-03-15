@@ -15,9 +15,12 @@ body {
 }
 
 
-p {
+div {
     border: 1px solid black;
-
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-right: 50%;
+    margin-left: 10%;
     background-color: MediumSeaGreen;
     padding-top: 1%;
      padding-right: 3%;
@@ -52,7 +55,4 @@ a {
 }
 p.serif {
     font-family: "Times New Roman", Times, serif;
-}
-a {
-    text-decoration: none;
 }
