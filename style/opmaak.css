@@ -55,3 +55,6 @@ a {
 p.serif {
     font-family: "Times New Roman", Times, serif;
 }
+ul.a {
+    list-style-type: circle;
+}
