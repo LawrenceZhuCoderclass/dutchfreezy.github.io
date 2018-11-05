@@ -1,12 +1,13 @@
-img {
-  position: fixed;
-  top: 100px;
-  left: 300px;
-}
+
+
 
 body{
     background-image: url("https://quest.gjstatic.nl/thumbnails/QuestArticleBundle/Article/fileUpload/detail/00/15/23/zijn-wolken-bevroren-als-het-vriest-1523.jpg");
-    background-color: #cccccc;
+  
+    background-size: cover;
+    height: 100%;
+
+    background-position: center;
 }
 
 nav {
