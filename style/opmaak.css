@@ -1,9 +1,8 @@
 
 
-
 body{
     background-image: url("https://quest.gjstatic.nl/thumbnails/QuestArticleBundle/Article/fileUpload/detail/00/15/23/zijn-wolken-bevroren-als-het-vriest-1523.jpg");
-  
+
     background-size: cover;
     height: 100%;
 
@@ -40,6 +39,11 @@ body {
   font-family: 'Mali', cursive;
 
 }
+<ul>
+<a href="index.html">index</a>
+<a href="anders.html">anders</a>
+<a href="badges.html">badges</a>
+</ul>
 p.border {
     border: 2px solid red;
     border-radius: 12px;
