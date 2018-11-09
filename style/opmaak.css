@@ -39,12 +39,11 @@ body {
   font-family: 'Mali', cursive;
 
 }
-<ul>
-<a href="index.html">index</a>
-<a href="anders.html">anders</a>
-<a href="badges.html">badges</a>
-</ul>
+
 p.border {
     border: 2px solid red;
     border-radius: 12px;
+}
+p.hidden {
+  border-style: hidden;
 }
