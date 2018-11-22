@@ -1,28 +1,29 @@
 
 
 body{
-    background-image: url("https://quest.gjstatic.nl/thumbnails/QuestArticleBundle/Article/fileUpload/detail/00/15/23/zijn-wolken-bevroren-als-het-vriest-1523.jpg");
-
+    background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-
+    background-color: #136F63;
     background-position: center;
 }
 
 nav {
   position: sticky;
   overflow: hidden;
-  background-color: #333;
+  background-color: #1CFEBA;
   top: 0px;
   padding: 16px;
   margin-top: 20px;
   height: 30px; /* Used in this example to enable scrolling */
+  background-size: 1380px 700px
+
 }
 
 nav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -44,6 +45,19 @@ p.border {
     border: 2px solid red;
     border-radius: 12px;
 }
-p.hidden {
-  border-style: hidden;
+p.solid {
+  border-style: solid;
+  border-color: #274060
+  float: left;
+  border-radius: 8px;
+}
+
+article {
+  border-style: solid;
+  border-color: #274060
+  float: left;
+  border-radius: 8px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 10px;
 }
