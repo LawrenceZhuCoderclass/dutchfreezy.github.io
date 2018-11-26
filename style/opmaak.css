@@ -1,5 +1,4 @@
 
-
 body{
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,10 +62,11 @@ article {
   padding: 10px;
 }
 footer {
-    position: fixed;
+    position: absolute;
     bottom: 0;
-    right: 30;
-    width: 1000px;
+    left:50;
+    align: center;
+    width: 100%;
 
 
 }
