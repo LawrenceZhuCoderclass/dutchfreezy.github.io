@@ -12,10 +12,11 @@ nav {
   position: sticky;
   overflow: hidden;
   background-color: #1CFEBA;
-  top: 0px;
-  padding: 16px;
-  margin-top: 20px;
-  height: 30px; /* Used in this example to enable scrolling */
+  top: 10px;
+  padding: 0px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: px; /* Used in this example to enable scrolling */
   background-size: 1380px 700px
 
 }
@@ -60,4 +61,12 @@ article {
   margin-left: 10%;
   margin-right: 10%;
   padding: 10px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 30;
+    width: 1000px;
+
+
 }
